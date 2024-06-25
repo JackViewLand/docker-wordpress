@@ -1,0 +1,17 @@
+# Virtual environment
+venv/
+env/
+.venv/
+.env
+
+# Log files
+logs/
+*.log
+
+# Temporary files
+*.swp
+*~
+.DS_Store
+
+# mysql data
+mysql/db_data
